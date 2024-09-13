@@ -1,0 +1,33 @@
+artifact_path: 2014_23_features_rfc
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.11.9
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.4.1.post1
+mlflow_version: 2.11.3
+model_size_bytes: 8151384
+model_uuid: 0d8268950c37423ead3207714394037c
+run_id: 435e33f2-2a66-4b7d-b731-6f7e15c08d11
+signature:
+  inputs: '[{"type": "long", "name": "driverId", "required": true}, {"type": "long",
+    "name": "constructorId", "required": true}, {"type": "long", "name": "year", "required":
+    true}, {"type": "long", "name": "round", "required": true}, {"type": "long", "name":
+    "grid", "required": true}, {"type": "long", "name": "laps", "required": true},
+    {"type": "long", "name": "constructortotalpoints", "required": true}, {"type":
+    "long", "name": "constructorposition", "required": true}, {"type": "long", "name":
+    "drivertotalpoints", "required": true}, {"type": "long", "name": "driverposition",
+    "required": true}, {"type": "long", "name": "currentracepoints", "required": true},
+    {"type": "long", "name": "statusId", "required": true}, {"type": "long", "name":
+    "age", "required": true}]'
+  outputs: '[{"type": "double", "name": "currentraceposition", "required": true}]'
+  params: null
+utc_time_created: '2024-09-12 14:31:27.940057'
