@@ -168,7 +168,7 @@ La subjetividad determina si un ingreso de texto es información objetiva o una 
 | Antonia Beatriz Soler Riera   | <img>      | Machine Learning Developer / Data Engineer        | [GitHub]()  | [LinkedIn]()       |
 | Daniel Carrillo       | <img>       |Data Analyst / Data Scientist                       | [GitHub]()       | [LinkedIn]()                                 |
 | Sergio González Rivera | <img src="https://github.com/No-Country-simulation/c19-126-t-data-bi/blob/main/files/documentation/presentations/n9.png" width="100" height="100" style="border-radius: 50%;">     |Data Analyst / Data Scientist      | [GitHub](https://github.com/gonzalezrivera) | [LinkedIn](https://www.linkedin.com/in/gonzalez-rivera/)   
-| Gabriela Beatriz Pardo |<img>     | Data Analyst / ETL Developer                          | [GitHub]()  | [LinkedIn](https://www.linkedin.com/in/gabriela-beatriz-pardo/)  
+| Gabriela Beatriz Pardo |<img>     | Data Analyst / ETL Developer                          | [GitHub](https://github.com/GBPardoGabrielaBeatriz)  | [LinkedIn](https://www.linkedin.com/in/gabriela-beatriz-pardo/)  
 | Mike Ismerio   | <img>       |Data Analyst / Project Manager                          | [GitHub]()  | [LinkedIn]()  
 | Micaela Pequeño   | <img src="https://github.com/No-Country-simulation/c19-126-t-data-bi/blob/main/files/documentation/presentations/n5-.png" width="100" height="100" style="border-radius: 50%;">       |Data Analyst                          | [GitHub](https://github.com/micaelapequeno)  | [LinkedIn](https://www.linkedin.com/in/micaelapequeno/)  
 
