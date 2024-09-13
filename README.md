@@ -165,7 +165,7 @@ La subjetividad determina si un ingreso de texto es información objetiva o una 
 
 | Integrantes          |                                     |Rol                                     | GitHub                                        | LinkedIn                                                                           |
 |----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------|
-| Antonia Beatriz Soler Riera   | <img>      | Machine Learning Developer / Data Engineer        | [GitHub]()  | [LinkedIn]()       |
+| Antonia Beatriz Soler Riera   | <img>      | Machine Learning Developer / Data Engineer        | [GitHub](https://github.com/asoler2004)  | [LinkedIn](www.linkedin.com/in/antonia-soler-7a2811230)       |
 | Daniel Carrillo       | <img>       |Data Analyst / Data Scientist                       | [GitHub]()       | [LinkedIn]()                                 |
 | Sergio González Rivera | <img src="https://github.com/No-Country-simulation/c19-126-t-data-bi/blob/main/files/documentation/presentations/n9.png" width="100" height="100" style="border-radius: 50%;">     |Data Analyst / Data Scientist      | [GitHub](https://github.com/gonzalezrivera) | [LinkedIn](https://www.linkedin.com/in/gonzalez-rivera/)   
 | Gabriela Beatriz Pardo |<img>     | Data Analyst / ETL Developer                          | [GitHub](https://github.com/GBPardoGabrielaBeatriz)  | [LinkedIn](https://www.linkedin.com/in/gabriela-beatriz-pardo/)  
