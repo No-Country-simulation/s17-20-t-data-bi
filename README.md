@@ -29,10 +29,10 @@ Repositorio del grupo 20 data bi, del proyecto Análisis F1
  
    ### Mockup carreras:
    ### Mockup escuderías:
-- Link de referencia dataset: [Dataset origen]()
-- Dataset: [Dataset]()
+- Link de referencia dataset: [Dataset origen](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data?select=lap_times.csv)
+- Dataset: [Dataset](https://github.com/No-Country-simulation/s17-20-t-data-bi/tree/main/data/raw)
 
-  ### Mockup pilotos:
+### Mockup pilotos:
 
 
 ### Visualización en Power BI
