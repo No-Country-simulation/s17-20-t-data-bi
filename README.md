@@ -31,7 +31,6 @@ Repositorio del grupo 20 data bi, del proyecto Análisis F1
    ### Mockup escuderías:
 - Link de referencia dataset: [Dataset origen]()
 - Dataset: [Dataset]()
-
   ### Mockup epilotos:
 
 
