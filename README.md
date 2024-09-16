@@ -1,6 +1,6 @@
 # s17-20-t-data-bi
 Repositorio del grupo 20 data bi, del proyecto Análisis F1
-![image]()
+![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/other/race.jpg)
 
 ### 📝 Índice:
 
@@ -11,11 +11,11 @@ Repositorio del grupo 20 data bi, del proyecto Análisis F1
 - [**Metodología**](#metodología)
    - [**Datos**](#datos)
    - [**Etapas del Proyecto**](#etapas-del-proyecto)
-       - [**Mockup técnico**](#mockup-técnico)
-       - [**Mockup sentimiento**](#mockup-sentimiento)
-       - [**Mockup predictivo**](#mockup-predictivo)
+       - [**Mockup carreras**](#mockup-carreras)
+       - [**Mockup escuderías**](#mockup-escuderías)
+       - [**Mockup pilotos**](#mockup-pilotos)
 - [**Visualización en Power BI**](#visualización-en-power-bi)
-- [**Herramientas y librerías utilizadas en el proyecto**](#herramientas-y-librerías-utilizadas-en-el-proyecto)
+- [**Herramientas utilizadas en el proyecto**](#herramientas-utilizadas-en-el-proyecto)
 - [**Contacto**](#contacto)
 
 ### Introducción:
@@ -27,14 +27,16 @@ Repositorio del grupo 20 data bi, del proyecto Análisis F1
 
 ### Etapas del Proyecto:
  
-   ### Mockup técnico:
-   ### Mockup sentimiento:
+   ### Mockup carreras:
+   ### Mockup escuderías:
 - Link de referencia dataset: [Dataset origen]()
 - Dataset: [Dataset]()
 
+   ### Mockup epilotos:
+
 
 ### Visualización en Power BI
-### Herramientas y librerías utilizadas en el proyecto:
+### Herramientas utilizadas en el proyecto:
 
 
 |  Librería/herramienta    |   Logo                                    | Descripción                                                                                                           |
@@ -158,10 +160,10 @@ Repositorio del grupo 20 data bi, del proyecto Análisis F1
 
 | Integrantes          |                                     |Rol                                     | GitHub                                        | LinkedIn                                                                           |
 |----------------------|-----------------------------------------|-----------------------------------------|-----------------------------------------------|------------------------------------------------------------------------------------|
-| Antonia Beatriz Soler Riera   | <img>      | Machine Learning Developer / Data Engineer        | [GitHub](https://github.com/asoler2004)  | [LinkedIn](https://www.linkedin.com/in/antonia-soler-7a2811230)       |
+| Antonia Beatriz Soler Riera   | <img src="https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/team/Antonia.png" width="100" height="100" style="border-radius: 50%;">      | Machine Learning Developer / Data Engineer        | [GitHub](https://github.com/asoler2004)  | [LinkedIn](https://www.linkedin.com/in/antonia-soler-7a2811230)       |
 | Daniel Carrillo       | <img>       |Data Analyst / Data Scientist                       | [GitHub]()       | [LinkedIn]()                                 |
 | Sergio González Rivera | <img src="https://github.com/No-Country-simulation/c19-126-t-data-bi/blob/main/files/documentation/presentations/n9.png" width="100" height="100" style="border-radius: 50%;">     |Data Analyst / Data Scientist      | [GitHub](https://github.com/gonzalezrivera) | [LinkedIn](https://www.linkedin.com/in/gonzalez-rivera/)   
-| Gabriela Beatriz Pardo |<img>     | Data Analyst / ETL Developer                          | [GitHub](https://github.com/GBPardoGabrielaBeatriz)  | [LinkedIn](https://www.linkedin.com/in/gabriela-beatriz-pardo/)  
-| Miguel Ismerio   | <img>       |Data Analyst / Project Manager                          | [GitHub]()  | [LinkedIn](https://www.linkedin.com/in/miguel-ismerio/)  
+| Gabriela Beatriz Pardo |<img src="https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/team/Gabriela.png" width="100" height="100" style="border-radius: 50%;">     | Data Analyst / ETL Developer                          | [GitHub](https://github.com/GBPardoGabrielaBeatriz)  | [LinkedIn](https://www.linkedin.com/in/gabriela-beatriz-pardo/)  
+| Miguel Ismerio   | <img src="https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/team/Miguel.png" width="100" height="100" style="border-radius: 50%;">       |Data Analyst / Project Manager                          | [GitHub]()  | [LinkedIn](https://www.linkedin.com/in/miguel-ismerio/)  
 | Micaela Pequeño   | <img src="https://github.com/No-Country-simulation/c19-126-t-data-bi/blob/main/files/documentation/presentations/n5-.png" width="100" height="100" style="border-radius: 50%;">       |Data Analyst                          | [GitHub](https://github.com/micaelapequeno)  | [LinkedIn](https://www.linkedin.com/in/micaelapequeno/)  
 
