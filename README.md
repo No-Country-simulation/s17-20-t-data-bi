@@ -32,7 +32,7 @@ Repositorio del grupo 20 data bi, del proyecto Análisis F1
 - Link de referencia dataset: [Dataset origen]()
 - Dataset: [Dataset]()
 
-   ### Mockup epilotos:
+  ### Mockup epilotos:
 
 
 ### Visualización en Power BI
