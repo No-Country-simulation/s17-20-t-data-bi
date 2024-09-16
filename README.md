@@ -19,18 +19,33 @@ Repositorio del grupo 20 data bi, del proyecto Análisis F1
 - [**Contacto**](#contacto)
 
 ### Introducción:
-### Resumen:
+Este proyecto tiene como objetivo proporcionar nuevas perspectivas sobre la evolución del deporte de la Fórmula 1, destacando tendencias a largo plazo, el rendimiento de pilotos y equipos, y el impacto de los cambios reglamentarios. A través de análisis profundos y el uso de técnicas de machine learning, este repositorio ofrece herramientas valiosas para periodistas deportivos y analistas de medios, ayudándoles a crear reportajes más ricos y basados en datos.
+
 ### Conceptos Claves:
+-Dominancia de Equipos y Pilotos: Identificación de equipos y pilotos que han liderado en distintas épocas, observando cambios en el equilibrio de poder.
+-Predicción de Resultados: Uso de machine learning para predecir resultados de carreras basados en factores como el clima, la posición en la parrilla y el circuito.
+-Análisis de Circuitos: Evaluación de cuáles son los circuitos más desafiantes o propensos a accidentes, considerando factores como la longitud, número de vueltas y condiciones climáticas.
+-Visualización del Campeonato: Visualización interactiva que permite explorar los campeonatos anuales y los eventos destacados.
+-Análisis de Redes de Colaboración: Modelado de las relaciones entre pilotos y equipos, analizando cómo los cambios de equipo afectan el rendimiento.
+
 ### Público Objetivo:
+Este análisis está diseñado para:
+-Periodistas deportivos: Para enriquecer sus reportajes con datos históricos y tendencias clave.
+-Analistas de medios: Para crear visualizaciones y predicciones que agreguen profundidad a la cobertura del deporte.
+-Fanáticos de la F1: Para aquellos interesados en obtener una visión más profunda del rendimiento histórico y predicciones futuras.
+
 ### Metodología:
+Este proyecto se basa en la recolección y análisis de datos históricos de la Fórmula 1, incluyendo información sobre carreras, pilotos, equipos y circuitos desde los inicios del campeonato. Para la predicción de resultados de carreras, se aplican modelos de machine learning que tienen en cuenta múltiples factores, como el clima, la posición de salida y las características de cada circuito. Además, se realiza un análisis estadístico detallado para evaluar el impacto de los cambios en las normativas y cómo estos han influido en el rendimiento de los equipos y pilotos. Las visualizaciones interactivas permiten explorar de manera intuitiva los campeonatos a lo largo de los años, proporcionando una comprensión clara de las dinámicas de poder entre pilotos y equipos.
+
 ### Datos:
+- Link de referencia dataset: [Dataset origen](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data?select=lap_times.csv)
+- Dataset: [Dataset](https://github.com/No-Country-simulation/s17-20-t-data-bi/tree/main/data/raw)
 
 ### Etapas del Proyecto:
  
    ### Mockup carreras:
    ### Mockup escuderías:
-- Link de referencia dataset: [Dataset origen](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data?select=lap_times.csv)
-- Dataset: [Dataset](https://github.com/No-Country-simulation/s17-20-t-data-bi/tree/main/data/raw)
+
 
 ### Mockup pilotos:
 
