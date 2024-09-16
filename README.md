@@ -37,15 +37,6 @@ Este proyecto se basa en la recolección y análisis de datos históricos de la 
 - Link de referencia dataset: [Dataset origen](https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020/data?select=lap_times.csv)
 - Dataset: [Dataset](https://github.com/No-Country-simulation/s17-20-t-data-bi/tree/main/data/raw)
 
-### Etapas del Proyecto:
- 
-   ### Mockup carreras:
-   ### Mockup escuderías:
-
-
-### Mockup pilotos:
-
-
 ### Visualización en Power BI
 ### Herramientas utilizadas en el proyecto:
 
