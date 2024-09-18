@@ -37,6 +37,23 @@ Este proyecto se basa en la recolección y análisis de datos históricos de la 
 - Dataset: [Dataset](https://github.com/No-Country-simulation/s17-20-t-data-bi/tree/main/data/raw)
 
 ### Visualización en Power BI
+- Hoja 1: Portada
+Explicacion breve de lo que buscamos mostrar con el analisis.
+![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/project/Portada.png)
+
+- Hoja 2: Carreras
+Se pueden visualizar datos generales de todas las carreras incluyendo imagenes de los circuitos y un mapa con su ubicación.
+![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/project/Portada.png)
+
+- Hoja 3: Escuderías
+Se muestran datos de todas las escuderías que han competido en la F1.
+![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/project/Portada.png)
+
+- Hoja 4: Pilotos
+Esta ultima hoja cuenta con datos de todos los pilotos que han corrido en la F1 incluyendo sus fotos, edad, nacionalidad, descalificaciones y datos de sus carreras.
+![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/project/Pilotos.png)
+
+
 ### Herramientas utilizadas en el proyecto:
 
 
