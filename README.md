@@ -5,7 +5,6 @@ Repositorio del grupo 20 data bi, del proyecto Análisis F1
 ### 📝 Índice:
 
 - [**Introducción**](#introducción)
-- [**Resumen**](#resumen)
 - [**Conceptos Claves**](#conceptos-claves)
 - [**Público Objetivo**](#público-objetivo)
 - [**Metodología**](#metodología)
