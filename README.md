@@ -43,11 +43,11 @@ Explicacion breve de lo que buscamos mostrar con el analisis.
 
 - Hoja 2: Carreras
 Se pueden visualizar datos generales de todas las carreras incluyendo imagenes de los circuitos y un mapa con su ubicación.
-![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/project/Portada.png)
+![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/project/Carreras.png)
 
 - Hoja 3: Escuderías
 Se muestran datos de todas las escuderías que han competido en la F1.
-![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/project/Portada.png)
+![image](https://github.com/No-Country-simulation/s17-20-t-data-bi/blob/main/multimedia/project/Escuderias.png)
 
 - Hoja 4: Pilotos
 Esta ultima hoja cuenta con datos de todos los pilotos que han corrido en la F1 incluyendo sus fotos, edad, nacionalidad, descalificaciones y datos de sus carreras.
