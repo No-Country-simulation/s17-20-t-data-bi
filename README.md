@@ -70,7 +70,7 @@ Esta ultima hoja cuenta con datos de todos los pilotos que han corrido en la F1 
 | **Google Drive**|<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Google_Drive_icon_%282020%29.svg/1024px-Google_Drive_icon_%282020%29.svg.png?20221103153031" width="50">| Servicio de almacenamiento y sincronización de archivos.|
 | **Zoom**|<img src="https://w7.pngwing.com/pngs/805/460/png-transparent-zoom-logo-thumbnail.png" width="70">| Plataforma de videoconferencia de Google. //cambio a Zoom|
 | **GitHub**|<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" width="100">| Plataforma de desarrollo colaborativo para proyectos de software.|
-
+| **Microsoft Fabric**|<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.fabric.microsoft.com%2F&psig=AOvVaw0WTOdTU3W5kdrVO3qUyngH&ust=1726969447950000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKjRndP00ogDFQAAAAAdAAAAABAJ" width="100">| Plataforma de datos y análisis integral diseñada para empresas que requieren una solución unificada.|
 
 ### Contacto:
 
